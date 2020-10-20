@@ -5,7 +5,7 @@
 # This is free software; you can redistribute it and/or modify it under the same terms
 # as the Perl 5 programming language system itself.
 #
-# Contact: jcp@comasy.de, satthoff@icloud.com
+# Contact: satthoff@icloud.com
 #
 # Hamburg,    08 NOV 2014 - Uwe Satthoff
 # Hartenholm, 19 OCT 2015 - Uwe Satthoff
